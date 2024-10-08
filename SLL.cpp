@@ -84,7 +84,7 @@ void Delete_After(List &L, adr prec, adr P){
     }
 }
 
-void Show(List& L) {
+void Show(List L) {
     adr p = first(L);
     cout << endl;
     while (p != nullptr) {
