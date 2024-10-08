@@ -49,7 +49,7 @@ int main()
 
     //delete data keenam
     loc = (SearchBy_Pemesan(FHI,data6));
-    cout << loc << endl;
+
     prec = Cari_Prec(FHI,loc,P);
 
     Delete_After(FHI,prec,P);
