@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728131268 source:c:\codeblocks workspace\sll\main.cpp
+	<iostream>
+	"SLL.h"
+
+1728125908 c:\codeblocks workspace\sll\sll.h
+	<iostream>
+
+1728130233 source:c:\codeblocks workspace\sll\sll.cpp
+	<iostream>
+	"SLL.h"
+
