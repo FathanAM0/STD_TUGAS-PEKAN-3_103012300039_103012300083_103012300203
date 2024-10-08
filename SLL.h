@@ -36,7 +36,7 @@ void Insert_After(List &L, adr prec,adr P);
 void Delete_First(List &L,adr P);
 void Delete_Last(List &L, adr P);
 void Delete_After(List &L, adr prec, adr P);
-void Show(List &L);
+void Show(List L);
 void SortByHargaTiket(List &L);
 void Input_Data(infotype &data);
 adr SearchBy_Pemesan(List &L , infotype data);
